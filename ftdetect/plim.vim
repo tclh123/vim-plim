@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.plim,*.plm set filetype=plim
+au BufRead,BufNewFile *.plim set filetype=plim
